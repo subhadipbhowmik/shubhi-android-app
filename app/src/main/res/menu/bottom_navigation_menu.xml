@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/tab_about"
+        android:title="@string/about"
+        android:icon="@drawable/about_icon">
+    </item>
+
+    <item android:id="@+id/tab_skill"
+        android:title="@string/skills"
+        android:icon="@drawable/skill_icon">
+    </item>
+
+    <item android:id="@+id/tab_experience"
+        android:title="@string/experience"
+        android:icon="@drawable/experience_icon">
+    </item>
+
+    <item android:id="@+id/tab_project"
+        android:title="@string/projects"
+        android:icon="@drawable/project_icon">
+    </item>
+
+
+    <item android:id="@+id/tab_education"
+        android:title="@string/education"
+        android:icon="@drawable/education_icon">
+    </item>
+
+</menu>

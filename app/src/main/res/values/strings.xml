@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shubhadip Bhowmik</string>
+    <string name="role">WEB &amp; App Dev</string>
+    <string name="about_me">I am a B.C.A student at Chandigarh University, with a passion for technology. I am an Android and Front-end Web Developer. I like to write blogs, design  UI/Mock-ups, and Contribute to open-source projects. I am always looking for new ways to use technology to help others.I am a technology enthusiast, blogger, UI/UX Designer, and open-source contributor. I am always looking for new ways to use technology to help others.
+I am proficient in C++, C, JavaScript, HTML5, CSS3, Tailwind CSS, and Bootstrap. I am also familiar with other programming languages and technologies, such as KOTLIN, Java, and React. I have a strong understanding of software development principles and practices and can apply them to real-world projects.
+I enjoy writing blogs, designing app and website layouts, and contributing to open-source projects in my spare time. Hello World!.</string>
+    <string name="skills">Skills</string>
+    <string name="my_blog">My Blogs 📝</string>
+    <string name="about">About</string>
+    <string name="experience">Experience</string>
+    <string name="projects">Projects</string>
+    <string name="education">Education</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="about_me_txt">About Me 😀</string>
+</resources>
